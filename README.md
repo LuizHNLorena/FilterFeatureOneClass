@@ -6,8 +6,8 @@ The following filters are avaiable:
 
 - [Information Score](InformationScore.m)
 - [Pearson Correlation](PearsonCorrelation.m)
-- [Intra-class distance](IntraClassDistance.m)
-- [Interquartile range](InterquartileRange.m)
+- [Intra-class Distance](IntraClassDistance.m)
+- [Interquartile Range](InterquartileRange.m)
 
 Spectral score is avaiable at Arizona State University [Feature Selection Algorithms](http://featureselection.asu.edu/software.php)
 
