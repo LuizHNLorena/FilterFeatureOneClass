@@ -14,8 +14,3 @@ Spectral score is avaiable at Arizona State University [Feature Selection Algori
 # Usage
 
 File [howToUse.m](howToUse.m) present how to use the filters in the data set [iris1.data](iris1.data). This data set represents class "Setosa" from the [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/Iris)
-
-# Authors Info
-- [MsC. Luiz Henrique Nogueira Lorena](http://lattes.cnpq.br/3719447000531011)
-- [PhD. André Carlos Ponce de Leon Ferreira de Carvalho](http://www.icmc.usp.br/~andre/)
-- [PhD. Ana Carolina Lorena](http://lattes.cnpq.br/3451628262694747)
