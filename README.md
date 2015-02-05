@@ -1,4 +1,4 @@
-# FilterFeatureOneClass
+# Introduction
 
 Filters developed for the article "Filter Feature Selection for One-Class Classification" avaiable at [Journal of Intelligent & Robotic Systems](http://link.springer.com/article/10.1007%2Fs10846-014-0101-2)
 
